@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="menu_undo"/>
+    <item type="id" name="menu_reset"/>
+    <item type="id" name="menu_save"/>
+    <item type="id" name="menu_load"/>
+    <item type="id" name="menu_help"/>
+    <item type="id" name="menu_info"/>
+
+    <item type="id" name="menu_object_box"/>
+    <item type="id" name="menu_paint_tool"/>
+    <item type="id" name="menu_comment"/>
+
+    <item type="id" name="red_one"/>
+    <item type="id" name="red_two"/>
+    <item type="id" name="red_three"/>
+
+    <item type="id" name="blue_one"/>
+    <item type="id" name="blue_two"/>
+    <item type="id" name="blue_three"/>
+
+</resources>

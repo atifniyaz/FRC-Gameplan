@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/whiteboard"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/field_two"
+    tools:context=".activity.WhiteboardActivity">
+
+    <com.techhounds.frcgameplan.ui.PaintView
+        android:id="@+id/whiteboardMarker"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/whiteboardLeftMenu"
+        android:layout_width="50dp"
+        android:layout_height="200dp"
+        android:background="@drawable/nav_menu_background_left"
+        android:paddingTop="16dp"
+        android:paddingBottom="24dp"
+        android:paddingEnd="4dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/whiteboardRightMenu"
+        android:layout_width="50dp"
+        android:layout_height="200dp"
+        android:background="@drawable/nav_menu_background"
+        android:paddingTop="16dp"
+        android:paddingBottom="24dp"
+        android:paddingStart="4dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"/>
+
+    <include
+        layout="@layout/view_bottom_object"
+        android:id="@+id/whiteboardBottomMenu"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true" />
+
+</RelativeLayout>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">FRC Gameplan</string>
+    <string name="footer_splash">frc gameplan • by atif niyaz</string>
+
+    <string name="about_desc">FRC Gameplan allows you to create clean and robust First Robotics Competition (FRC) game strategies</string>
+    <string name="about_copy">(C) 2015 - 2018 Atif Niyaz and FRC 868 TechHOUNDS</string>
+
+    <string name="help_desc">Would you like to see the tutorial again?</string>
+    <string name="help_title">Help</string>
+
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="about">About</string>
+    <string name="comments">Comments</string>
+    <string name="restore">Load</string>
+
+    <string name="tutorial_init_title">Welcome to FRC Gameplan!</string>
+    <string name="tutorial_init_desc">FRC Gameplan allows you to create clean and robust First Robotics Competition (FRC) game strategies\n\nTap anywhere to continue the tutorial</string>
+
+    <string name="tutorial_left_menu_title">Edit Menu</string>
+    <string name="tutorial_left_menu_desc">This menu contains editing tools to make changes to the whiteboard</string>
+
+    <string name="tutorial_game_piece_title">Add Game Object</string>
+    <string name="tutorial_game_piece_desc">Tap on the game object to add it to the whiteboard\n\nTo remove any object on the field, drag it to the very top left corner</string>
+
+    <string name="tutorial_pen_color_title">Change Pen Color</string>
+    <string name="tutorial_pen_color_desc">Tap to change the pen color between black, blue, and red</string>
+
+    <string name="tutorial_bottom_menu_title">Teams / Shapes Menu</string>
+    <string name="tutorial_bottom_menu_desc">This menu is used to set team numbers and their shapes. Shapes are used to represent the different types of robots</string>
+
+    <string name="tutorial_bottom_item_title">Team Item</string>
+    <string name="tutorial_bottom_item_desc">Long press on the number \"1\", \"2\", \"3\" will prompt for the team number\n\nLong press on the shape will change the shape type (eg. square, circle, etc.)\n\nA quick tap will add the team shape and number to the whiteboard</string>
+
+    <string name="tutorial_right_menu_title">Action Menu</string>
+    <string name="tutorial_right_menu_desc">This menu has action tools for the whiteboard</string>
+
+    <string name="tutorial_notes_title">Add Notes</string>
+    <string name="tutorial_notes_desc">Tap to type up notes for the match strategy</string>
+
+    <string name="tutorial_undo_title">Undo Last Stroke / Field Object</string>
+    <string name="tutorial_undo_desc">Tap to remove the last stroke or field object on the whiteboard</string>
+
+    <string name="tutorial_reset_title">Reset Whiteboard</string>
+    <string name="tutorial_reset_desc">Tap to reset the whiteboard to a clean state</string>
+
+    <string name="tutorial_help_title">If you ever need help...</string>
+    <string name="tutorial_help_desc">You can always tap here to view this tutorial again</string>
+
+    <string name="tutorial_menu_title">Toggle Menu Visibility</string>
+    <string name="tutorial_menu_desc">The menu\'s visibility can be toggled by double tapping anywhere on the screen</string>
+
+    <string name="tutorial_final_title">Again...Welcome to FRC Gameplan</string>
+    <string name="tutorial_final_desc">We would love it if you give feedback after using the app for some time. It really helps us figure out how we can continually improve the app. Thanks!</string>
+
+</resources>

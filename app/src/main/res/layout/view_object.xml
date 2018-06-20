@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.techhounds.frcgameplan.ui.TeamView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/teamId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="#FFF"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif"
+        android:paddingBottom="10dp"
+        android:textSize="15sp"
+        android:visibility="gone"
+        tools:text="868" />
+
+    <ImageView
+        android:id="@+id/teamShape"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="fitCenter"
+        android:layout_below="@id/teamId"/>
+
+    <TextView
+        android:id="@+id/teamName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/teamShape"
+        android:layout_alignBottom="@id/teamShape"
+        android:layout_alignStart="@id/teamShape"
+        android:layout_alignEnd="@id/teamShape"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="#FFF"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="15sp"
+        android:visibility="gone"
+        tools:text="868" />
+
+    <View
+        android:id="@+id/teamUnderline"
+        android:layout_below="@id/teamShape"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#FFF"
+        android:visibility="gone"/>
+
+</com.techhounds.frcgameplan.ui.TeamView>
