@@ -6,7 +6,7 @@ https://play.google.com/store/apps/details?id=com.techhounds.frcgameplan
 
 ## Evolution of Gameplan
 
-It is crazy to believe that FRC Gameplan is four years old. Let's look at the evolution
+It is crazy to believe that FRC Gameplan is four years old. Let's look at the app's evolution
 
 <p>
 <table>
@@ -22,7 +22,8 @@ It is crazy to believe that FRC Gameplan is four years old. Let's look at the ev
 </tr>
 </table>
 
-I hope that you agree with me in saying that, the app definitely has improved in asthetic, function, and speed over the last four years. I cannot thank enough the people who have taught me along the way to develop an app like today's version.
+I hope that you agree with me in saying that: the app definitely has improved in asthetic, function, and speed over the last four years. A huge thanks goes out to my mentors, teachers, and peers, who've all inspired me in developing and keep on developing the app to the extent that it is today.
+
 ### What happened to 2017?
 
 For me, as the developer of Gameplan, it was a very busy and time and unfortuntely, I was not able to update the app for 2017.
